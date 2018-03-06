@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FucinaDigitale/laravel-gentelella/issues"
   },
-  "homepage": "https://github.com/FucinaDigitale/laravel-gentelella#readme"
+  "homepage": "https://github.com/FucinaDigitale/laravel-gentelella#readme",
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
 }
